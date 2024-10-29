@@ -12,25 +12,24 @@
 - Expression des besoins du projet
     - Contexte et enjeux
     - Objectifs
-    - Contraintes et opportunités
     - Exigences fonctionnelles 
     
 - Gestion de projet
-    - Jira
     - Méthodologie du projet
+    - Outil de gestion de projet
     - Planning et suivi 
 
 - Spécifications fonctionnelles
-    - Contraintes du projet
     - Livrables
     - Architecture logicielle 
     - Maquettes
-    - Merise
     - Use-case
-    - UML
     - RBAC
 
 - Spécifications techniques
+    - Merise
+    - Diagramme de classes
+    - Diagramme de séquences
 
 - Extraits de code
     - Captures d'écran d'interfaces utilisateur
