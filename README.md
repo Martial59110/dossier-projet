@@ -13,11 +13,18 @@
     - Contexte et enjeux
     - Objectifs
     - Exigences fonctionnelles 
+
     
 - Gestion de projet
     - Méthodologie du projet
     - Outil de gestion de projet
     - Planning et suivi 
+
+- Configuration du repository du projet
+    - Mise en place des branches (dev, main, features)
+    - Configuration des workflows CI/CD
+    - Templates pour issues et PR
+    - Guides de contribution
 
 - Spécifications fonctionnelles
     - Livrables
@@ -28,6 +35,7 @@
 
 - Spécifications techniques
     - Merise
+    - Technologies et Benchmark
     - Diagramme de classes
     - Diagramme de séquences
 
@@ -50,7 +58,12 @@
     
 - Présentation d'un jeu d'essai
 
-- Veille
+- Déploiement et Maintenance
+    - DevOps
+    - Procédure de déploiement
+    - Maintenance applicative
+
+- Veille technologique et sécurité
     - Vulnérabilités de sécurité rencontrées
     - Failles corrigées
     - Sources
